@@ -1,0 +1,20 @@
+{
+  "file": "top100_4h_730d.csv",
+  "sha256": "fbaa2c738709d07aa0cd0607be0b3c219608a9aa3c40d6e8bf314d516a75f57d",
+  "bytes": 40837564,
+  "rows": 401787,
+  "symbols": 100,
+  "start_utc": "2024-06-20 04:00:00",
+  "end_utc": "2026-06-20 00:00:00",
+  "bar_hours": 4,
+  "columns": [
+    "datetime_utc",
+    "symbol",
+    "open",
+    "high",
+    "low",
+    "close",
+    "volume"
+  ],
+  "source": "Local market snapshot corresponding to the research pipeline"
+}

@@ -1,0 +1,20 @@
+{
+  ".gitignore": "7c948cbe568640cb7b947998b398b4c7ca3afd42254f81aeedb1bdd27b016b00",
+  "data/DATA_MANIFEST.json": "f9f7828029f3a5ec0329eacacc07780e9c56bd7d761f5246259bae98dc6d8550",
+  "data/top100_4h_730d.csv": "fbaa2c738709d07aa0cd0607be0b3c219608a9aa3c40d6e8bf314d516a75f57d",
+  "README.md": "8dd30783ddb0105889a2221330233795bba85d950a8afaeb883a217fb5f9e44e",
+  "reference_results/ml_fold_metrics.csv": "88b9a1dcc4cb5cde9b55316bed504c0fbdf331fc39ba9aed1c1b32b928af962d",
+  "reference_results/ml_model_comparison.csv": "4a234e4d444d16b3697cef3ed688ac96518d104b752b0ef16cd23b1cc2f79f58",
+  "reference_results/ml_oos_predictions.csv": "7c98d759b3246b7c2d340e9441ab3ed2acccfd999277c81e1b4245632d8def41",
+  "reference_results/ml_trade_samples.csv": "5eceedfcf9b552522e83b9aac15c54c6465b9e5ad1ef7cbf0b1193a191c03f68",
+  "requirements.txt": "e342796c693d5ce566056699afe8149281f0c5084c8233662407ad6ee39aea0a",
+  "run_backtest.py": "ca8ecd1a545c080d2f0c5b22f85c79291850ed20e0c40a19325b0f8373806949",
+  "SOURCE.md": "9c9ce247d8b472db94cace87bf8eea036d0c5e8347e23332b5ad541086ebd31c",
+  "src/backtest_engine.py": "a564c28921383052852cf16f00dcc2c539381c08612cf6a9af9c2f2deb0904e1",
+  "src/ml_trade_filter.py": "1a3e2e96b4cdad8e6ab6ca0ae92def7dbbafee28b70a7ac1149a8ea386b9c39a",
+  "VALIDATION.md": "9d31f83566b3461e053c9bc3eb8d9f3c7977b9e35e269230b4979b629aab5cb4",
+  "verified_results/ml_fold_metrics.csv": "4a7d7fd6e108308ff9664010d73ee50a54868121a18de81a4925779a4deaf27b",
+  "verified_results/ml_model_comparison.csv": "4d008958f30605805e069858a35231a2668d42cf1df11192aa3df50d2e119a80",
+  "verified_results/ml_oos_predictions.csv": "940d27bb0534a1b6d644e918d7dd8098d8d4c872e6834f91870df26fad9fa4b4",
+  "verified_results/ml_trade_samples.csv": "f65a64b4cb9a6cead286ff5ccef6918973e950b7a89cb8e91e09ebdbada0c186"
+}
