@@ -2,9 +2,9 @@
 
 ## Download the Complete Runnable Package
 
-[Download the full project ZIP](https://github.com/yifaruhun12/crypto-ml-trade-filter/releases/download/v1.0.0/Morgan_Ruiming_Li_Crypto_ML_Backtest.zip) from [Releases](https://github.com/yifaruhun12/crypto-ml-trade-filter/releases/tag/v1.0.0). It contains the source code, historical data, and reference results. Extract the ZIP and follow the commands below from the extracted project folder.
+[Download the full project ZIP](https://github.com/yifaruhun12/crypto-ml-trade-filter/raw/refs/heads/main/Morgan_Ruiming_Li_Crypto_ML_Backtest.zip) from this repository. It contains the source code, historical data, and reference results. Extract the ZIP and follow the commands below from the extracted project folder.
 
-This repository presents the source code, English documentation, and compact result tables for browsing. The large market-data CSV files are supplied in the release ZIP.
+This repository presents the source code, English documentation, and compact result tables for browsing. The large market-data CSV files are supplied in the complete project ZIP linked above.
 
 This research package extracts the machine learning component of `quant-backtests-257`. It compares five classifiers for filtering candidate trades from a four-hour cryptocurrency mean-reversion strategy. It includes the original backtest engine, the ML pipeline, the required historical OHLCV data, and archived model comparison results.
 
